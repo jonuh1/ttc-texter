@@ -8,7 +8,6 @@ async function buildStations() {
     const response = await fetch(SOURCE_URL);
     const routes = await response.json(); //top level array of route objects
 
-
     const stationsByName = {}; //"Station Name" => set of stopCodes
 
     for (const route of routes) {
