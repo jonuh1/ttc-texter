@@ -1,0 +1,290 @@
+{
+  "Finch Station": [
+    "14111",
+    "14944"
+  ],
+  "North York Centre Station": [
+    "13789",
+    "13790"
+  ],
+  "Sheppard Yonge Station": [
+    "13860",
+    "13859",
+    "13862",
+    "13861"
+  ],
+  "York Mills Station": [
+    "13792",
+    "13791"
+  ],
+  "Lawrence Station": [
+    "13793",
+    "13794"
+  ],
+  "Eglinton Station": [
+    "13795",
+    "13796"
+  ],
+  "Davisville Station": [
+    "13798",
+    "13797"
+  ],
+  "St Clair Station": [
+    "13799",
+    "13800"
+  ],
+  "Summerhill Station": [
+    "13802",
+    "13801"
+  ],
+  "Rosedale Station": [
+    "13803",
+    "13804"
+  ],
+  "Bloor-Yonge Station": [
+    "13864",
+    "13863",
+    "13756",
+    "13755"
+  ],
+  "Wellesley Station": [
+    "13806",
+    "13805"
+  ],
+  "College Station": [
+    "13807",
+    "13808"
+  ],
+  "TMU Station": [
+    "13810",
+    "13809"
+  ],
+  "Queen Station": [
+    "13811",
+    "13812"
+  ],
+  "King Station": [
+    "13814",
+    "13813"
+  ],
+  "Union Station": [
+    "13815",
+    "13816"
+  ],
+  "St Andrew Station": [
+    "13817",
+    "13818"
+  ],
+  "Osgoode Station": [
+    "13820",
+    "13819"
+  ],
+  "St Patrick Station": [
+    "13821",
+    "13822"
+  ],
+  "Queen's Park Station": [
+    "13824",
+    "13823"
+  ],
+  "Museum Station": [
+    "13825",
+    "13826"
+  ],
+  "St George Station": [
+    "13858",
+    "13857",
+    "13856",
+    "13855"
+  ],
+  "Spadina Station": [
+    "13853",
+    "13854",
+    "13852",
+    "13851"
+  ],
+  "Dupont Station": [
+    "13828",
+    "13827"
+  ],
+  "St Clair West Station": [
+    "13829",
+    "13830"
+  ],
+  "Cedarvale Station": [
+    "13832",
+    "13831"
+  ],
+  "Glencairn Station": [
+    "13833",
+    "13834"
+  ],
+  "Lawrence West Station": [
+    "13836",
+    "13835"
+  ],
+  "Yorkdale Station": [
+    "13837",
+    "13838"
+  ],
+  "Wilson Station": [
+    "13840",
+    "13839"
+  ],
+  "Sheppard West Station": [
+    "14945",
+    "14110"
+  ],
+  "Downsview Park Station": [
+    "15664",
+    "15665"
+  ],
+  "Finch West Station": [
+    "15659",
+    "15658"
+  ],
+  "York University": [
+    "15666",
+    "15667"
+  ],
+  "Pioneer Village Station": [
+    "15656",
+    "15657"
+  ],
+  "Highway 407 Station": [
+    "15661",
+    "15660"
+  ],
+  "Vaughan Metropolitan Centre Station": [
+    "15662",
+    "15663"
+  ],
+  "Kipling Station": [
+    "13785",
+    "14948"
+  ],
+  "Islington Station": [
+    "13784",
+    "13783"
+  ],
+  "Royal York Station": [
+    "13781",
+    "13782"
+  ],
+  "Old Mill Station": [
+    "13780",
+    "13779"
+  ],
+  "Jane Station": [
+    "13777",
+    "13778"
+  ],
+  "Runnymede Station": [
+    "13776",
+    "13775"
+  ],
+  "High Park Station": [
+    "13773",
+    "13774"
+  ],
+  "Keele Station": [
+    "13772",
+    "13771"
+  ],
+  "Dundas West Station": [
+    "13769",
+    "13770"
+  ],
+  "Lansdowne Station": [
+    "13768",
+    "13767"
+  ],
+  "Dufferin Station": [
+    "13765",
+    "13766"
+  ],
+  "Ossington Station": [
+    "13764",
+    "13763"
+  ],
+  "Christie Station": [
+    "13761",
+    "13762"
+  ],
+  "Bathurst Station": [
+    "13760",
+    "13759"
+  ],
+  "Bay Station": [
+    "13757",
+    "13758"
+  ],
+  "Sherbourne Station": [
+    "13753",
+    "13754"
+  ],
+  "Castle Frank Station": [
+    "13752",
+    "13751"
+  ],
+  "Broadview Station": [
+    "13749",
+    "13750"
+  ],
+  "Chester Station": [
+    "13748",
+    "13747"
+  ],
+  "Pape Station": [
+    "13746",
+    "13745"
+  ],
+  "Donlands Station": [
+    "13743",
+    "13744"
+  ],
+  "Greenwood Station": [
+    "13742",
+    "13741"
+  ],
+  "Coxwell Station": [
+    "13739",
+    "13740"
+  ],
+  "Woodbine Station": [
+    "13738",
+    "13737"
+  ],
+  "Main Street Station": [
+    "13735",
+    "13736"
+  ],
+  "Victoria Park Station": [
+    "13734",
+    "13733"
+  ],
+  "Warden Station": [
+    "13732",
+    "13731"
+  ],
+  "Kennedy Station": [
+    "14947",
+    "13865"
+  ],
+  "Bayview Station": [
+    "13844",
+    "13843"
+  ],
+  "Bessarion Station": [
+    "13845",
+    "13846"
+  ],
+  "Leslie Station": [
+    "13848",
+    "13847"
+  ],
+  "Don Mills Station": [
+    "14949",
+    "14109"
+  ]
+}
